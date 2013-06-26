@@ -1,5 +1,7 @@
 {
     "name": "mattketmo/cliph",
+    "description": "Example of CLI app in PHP",
+    "license": "MIT",
     "require": {
         "symfony/console": "~2.3"
     },
