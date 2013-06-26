@@ -1,0 +1,11 @@
+{
+    "name": "mattketmo/cliph",
+    "require": {
+        "symfony/console": "~2.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cliph": "src"
+        }
+    }
+}
