@@ -3,7 +3,8 @@
     "description": "Example of CLI app in PHP",
     "license": "MIT",
     "require": {
-        "symfony/console": "~2.3"
+        "symfony/console": "~2.3",
+        "herrera-io/phar-update": "~1.0"
     },
     "autoload": {
         "psr-0": {

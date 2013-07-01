@@ -8,4 +8,5 @@ use Symfony\Component\Console\Application;
 
 $application = new Application('Cliph', '@package_version@');
 $application->add(new Command\HelloCommand());
+$application->add(new Command\UpdateCommand());
 $application->run();
