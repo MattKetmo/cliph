@@ -1,2 +1,5 @@
 /vendor
 cliph.phar
+box.json
+private.key
+cliph.phar.pubkey
