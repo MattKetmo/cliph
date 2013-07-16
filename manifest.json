@@ -10,5 +10,12 @@
         "sha1": "557936de0629246bbbfd26e77e0c5e28a6747c0b",
         "url": "http://mattketmo.github.io/cliph/downloads/cliph-1.1.1.phar",
         "version": "1.1.1"
+    },
+    {
+        "name": "cliph.phar",
+        "sha1": "f45c18129a07c556172ed3dbb8411fe6b4dacc7d",
+        "url": "http://mattketmo.github.io/cliph/downloads/cliph-1.2.0.phar",
+        "version": "1.2.0",
+        "publicKey": "http://mattketmo.github.io/cliph/pubkeys/cliph-1.2.0.phar.pubkey"
     }
 ]
