@@ -13,7 +13,7 @@ class HelloCommandTest extends AppTestCase
     {
         $output = $this->runCommand("hello");
 
-        $this->assertEquals("Hello World\n", $output);
+        $this->assertEquals("Hello World", trim($output));
     }
 
 }
